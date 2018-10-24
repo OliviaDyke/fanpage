@@ -13,7 +13,29 @@ a {
 .main {
     height: 100%;
 }
-.social-image{
+.social-image {
     width: 30px;
     margin: 15px;
+}
+
+.navbar {
+display: flex;
+justify-content: space-around;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px 50px 0px;
+    color: #F2569D;
+}
+
+.footer {
+    display: flex;
+    justify-content: start;
+}
+
+.thumbnail {
+    width: 100px;
+    height: 100px;
 }
