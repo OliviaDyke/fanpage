@@ -19,7 +19,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Add text to the element with the class of leftPane to describe who/what your fanpage is about in about.html
 - [ ] Add images to the gallery thumbnails in gallery.html
 #### CSS
-- [ ] Use CSS to change the background-color and/or font color on the page.
+- [ x] Use CSS to change the background-color and/or font color on the page.
 - [ ] Use CSS to change the background-image of the div with the class of main
 - [ ] Use CSS to change the background-image of the div with the class of rightPane.
 
@@ -29,9 +29,9 @@ Make sure to check off your items as you complete them. [ ] => [x]
 
 ## Day 2
 #### CSS
-- [ ] Use flexbox to center your heading. 
-- [ ] Use flexbox to format your navbar.
-- [ ] Use flexbox to format your footer.
+- [ x] Use flexbox to center your heading. 
+- [ x] Use flexbox to format your navbar.
+- [ x] Use flexbox to format your footer.
 - [ ] Use flexbox to format your gallery page. 
 - [ ] Use flexbox to format your about page. 
 
