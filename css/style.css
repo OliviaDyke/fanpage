@@ -9,6 +9,33 @@ body {
     
 }
 
+.info {
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.link {
+    margin: 60px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.h1class {
+    width: 25%;
+    
+}
+
+.imgclass {
+    width: 25%;
+    margin: 50px;
+}
+
+p {
+    font-size: 25px;
+}
+
 #aboutbody {
     height: 100%;
     background-color: #ff9999;
@@ -22,13 +49,10 @@ body {
 }
 
 .thumbnail-image {
-    display: flex;
-    justify-content: center;
-    justify-content: space-around;
     width: 450px;
     height: 300px;
     margin: 100px;
-    
+    border-radius: 50px;
 }
 
 a {
@@ -37,17 +61,19 @@ a {
 
 .main {
     height: 100%;
+    background-image: url("https://www.howsweeteats.com/wp-content/uploads/2010/11/TJ-17.jpg");
 }
+
 .social-image {
     width: 30px;
     margin: 15px;
 }
 
 .navbar {
-display: flex;
-justify-content: space-around;
-font-family: 'Amatic SC', cursive;
-font-size: 25px;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
 }
 
 .header {
@@ -65,6 +91,51 @@ font-size: 25px;
 }
 
 .thumbnail {
+    display: flex;
+    justify-content: center;
     width: 100px;
     height: 100px;
+}
+
+h1 {
+    margin: 60px;
+}
+
+.rightPane {
+    height: 900px; 
+    width: 1500px;
+    background-image: url("https://sparcathens.com/wp-content/uploads/2014/10/cheerio.jpg");
+}
+
+.leftpane {
+    display: flex;
+    justify-content: center;
+}
+
+marquee {
+    color: white;
+    font-size: 40px;
+    font-family: 'Amatic SC', cursive;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.gallery {
+    display: flex;
+    justify-content: space-around;
+}
+
+.gallery1 {
+    margin: 10px;
+}
+
+.gallery2 {
+    margin: 10px;
+}
+
+.gallery3 {
+    margin: 10px;
 }
